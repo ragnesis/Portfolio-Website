@@ -1,0 +1,83 @@
+[
+  {
+    "name": "C/C++",
+    "icon": "https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+  },
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+  },
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+  },
+  {
+    "name": "React",
+    "icon": "https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
+  },
+  {
+    "name": "TailwindCSS",
+    "icon": "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/?size=100&id=84710&format=png&color=000000"
+  },
+  {
+    "name": "Figma",
+    "icon": "https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000"
+  },
+  {
+    "name": "UI/UX",
+    "icon": "https://img.icons8.com/?size=100&id=45982&format=png&color=000000"
+  },
+
+  {
+    "name": "ExpressJS",
+    "icon": "https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000"
+  },
+  {
+    "name": "PhotoShop",
+    "icon": "https://img.icons8.com/?size=100&id=Cy4DRjeYKjRa&format=png&color=000000"
+  },
+  {
+    "name": "Premiere Pro",
+    "icon": "https://img.icons8.com/?size=100&id=87ZqKgnPMW8m&format=png&color=000000"
+  },
+  {
+    "name": "After Effects",
+    "icon": "https://img.icons8.com/?size=100&id=XJqAuI8VfoCe&format=png&color=000000"
+  }
+]

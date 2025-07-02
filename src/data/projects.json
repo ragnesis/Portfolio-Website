@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ResuMate",
+    "desc": "ResuMate is a sleek, fast, and free resume builder made with React and TailwindCSS. It lets users quickly generate professional resumes with downloadable PDF support",
+    "image": "/assets/images/projects/Resumate.png",
+    "category": "react",
+    "links": {
+      "view": "https://resu-mate-psi.vercel.app/",
+      "code": "https://github.com/ragnesis/ResuMate"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "This is my personal portfolio; no intro needed. You're already here, so just scroll down and explore the projects, the pixels, and the person behind the screen.",
+    "image": "/assets/images/projects/portfolio1.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://resu-mate-psi.vercel.app/",
+      "code": "https://github.com/ragnesis/Portfolio-Website"
+    }
+  }
+]
